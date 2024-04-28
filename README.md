@@ -21,6 +21,7 @@ The CNN model architecture used in this project is as follows:
 - Flatten Layer
 - Fully Connected Layers with ReLU activation
 - Output Layer with Sigmoid activation
+<img src="CNN_Architecture.png" alt="CNN Architecture" width="400"/>
 
 ## Results
 The model achieved the following performance metrics on the test set:
